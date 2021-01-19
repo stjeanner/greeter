@@ -1,7 +1,9 @@
-!/bin/bash
+#!/bin/bash
 #
-# automated greeter
+# automated greeter for star wars crew
 
-name = "Lea"
+sw_crew = ('Leia' 'Ron' 'Harry')
 
-echo "Hi ${name}"
+for crew_member in "${sw_crew[@]}"; do
+	echo "Hi everyone"
+done
