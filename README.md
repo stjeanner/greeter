@@ -1,1 +1,1 @@
-test_hello
+automated greeter
