@@ -2,6 +2,6 @@
 #
 # automated greeter
 
-name = "Leila"
+name = "Lea"
 
 echo "Hi ${name}"

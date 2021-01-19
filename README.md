@@ -1,1 +1,1 @@
-automated greeter for greeting Leila
+automated greeter for greeting a single person
