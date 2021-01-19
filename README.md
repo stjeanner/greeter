@@ -1,1 +1,1 @@
-automated greeter for greeting the entire Star Wars crew
+Automated greeter for greeting the entire Star Wars crew
